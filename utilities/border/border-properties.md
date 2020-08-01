@@ -33,3 +33,18 @@ Since `1.5.0`
 <div class="border--l--5 bg--gainsboro rounded--6 pa--2">.border--l--5</div>
 ```
 
+### Variable
+
+| Class | Properties |
+| :--- | :--- |
+| `.border--1` | `border: 1px solid` |
+| `.border--2` | `border: 2px solid` |
+| `.border--3` | `border: 3px solid` |
+| `.border--4` | `border: 4px solid` |
+| `.border--5` | `border: 5px solid` |
+| `.border--6` | `border: 6px solid` |
+| `.border--7` | `border: 7px solid` |
+| `.border--8` | `border: 8px solid` |
+| `.border--9` | `border: 9px solid` |
+| `.border--10` | `border: 10px solid` |
+
