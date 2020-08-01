@@ -4,7 +4,7 @@
 Since `1.8.0`
 {% endhint %}
 
-### Class
+## Class
 
 ```text
 .columns
@@ -18,7 +18,7 @@ Since `1.8.0`
 .column--{1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12}
 ```
 
-### Code Sample
+## Code Sample
 
 #### .columns
 
@@ -95,4 +95,21 @@ Since `1.8.0`
     <kbd>.column--12</kbd>
 </div>
 ```
+
+## Variable
+
+| Class | Properties |
+| :--- | :--- |
+| `.column--1` | `width: 8.33333%` |
+| `.column--2` | `width: 16.66667%` |
+| `.column--3` | `width: 25%` |
+| `.column--4` | `width: 33.33333%` |
+| `.column--5` | `width: 41.66667%` |
+| `.column--6` | `width: 50%` |
+| `.column--7` | `width: 58.33333%` |
+| `.column--8` | `width: 66.66667%` |
+| `.column--9` | `width: 75%` |
+| `.column--10` | `width: 83.33333%` |
+| `.column--11` | `width: 91.66667%` |
+| `.column--12` | `width: 100%` |
 
