@@ -34,3 +34,18 @@ Since `1.7.0`
 <div class="rounded--l--10 bg--gainsboro pa--2">.rounded--l--10</div>
 ```
 
+### Variable
+
+| Class | Properties |
+| :--- | :--- |
+| `.rounded--1` | `border-radius: 1px` |
+| `.rounded--2` | `border-radius: 2px` |
+| `.rounded--3` | `border-radius: 3px` |
+| `.rounded--4` | `border-radius: 4px` |
+| `.rounded--5` | `border-radius: 5px` |
+| `.rounded--6` | `border-radius: 6px` |
+| `.rounded--7` | `border-radius: 7px` |
+| `.rounded--8` | `border-radius: 8px` |
+| `.rounded--9` | `border-radius: 9px` |
+| `.rounded--10` | `border-radius: 10px` |
+
