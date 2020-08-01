@@ -4,7 +4,7 @@
 Since `1.5.0`
 {% endhint %}
 
-### Class
+## Class
 
 ```css
 .border--{1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10}
@@ -14,7 +14,7 @@ Since `1.5.0`
 .border--{t | r | b | l}--{1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10}
 ```
 
-### Code Sample
+## Code Sample
 
 #### .border--{1 \| 2 \| 3 \| 4 \| 5 \| 6 \| 7 \| 8 \| 9 \| 10}
 
@@ -33,7 +33,7 @@ Since `1.5.0`
 <div class="border--l--5 bg--gainsboro rounded--6 pa--2">.border--l--5</div>
 ```
 
-### Variable
+## Variable
 
 | Class | Properties |
 | :--- | :--- |

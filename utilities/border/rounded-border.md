@@ -4,7 +4,7 @@
 Since `1.7.0`
 {% endhint %}
 
-### Class
+## Class
 
 ```css
 .rounded--{1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | full}
@@ -14,7 +14,7 @@ Since `1.7.0`
 .rounded--{t | r | b | l}--{1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10}
 ```
 
-### Code Sample
+## Code Sample
 
 #### .rounded--{1 \| 2 \| 3 \| 4 \| 5 \| 6 \| 7 \| 8 \| 9 \| 10 \| full}
 
@@ -34,7 +34,7 @@ Since `1.7.0`
 <div class="rounded--l--10 bg--gainsboro pa--2">.rounded--l--10</div>
 ```
 
-### Variable
+## Variable
 
 | Class | Properties |
 | :--- | :--- |
