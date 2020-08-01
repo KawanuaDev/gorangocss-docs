@@ -3,6 +3,32 @@
 Full changelog  
 [https://github.com/KawanuaDev/gorangocss/releases](https://github.com/KawanuaDev/gorangocss/releases)
 
+## 1.9.0
+
+### New
+
+```css
+.hero
+```
+
+```css
+.button--{xs | sm | md | lg}
+```
+
+```css
+.notice--{info | success | warning | danger}
+```
+
+### Update
+
+```css
+.bg--{dark | light}--gradient
+```
+
+```css
+.bg--{info | success | warning | danger}--gradient
+```
+
 ## 1.8.0
 
 ### New
