@@ -4,7 +4,7 @@
 Since `1.5.0`
 {% endhint %}
 
-### Class
+## Class
 
 ```css
 .bg--{colorName}
@@ -22,7 +22,7 @@ Since `1.5.0`
 .bg--black--{10 | 20 | 30 | 40 | 50}
 ```
 
-### Code Sample
+## Code Sample
 
 #### .bg--{colorName}
 
