@@ -7,6 +7,7 @@
 
 * [Columns](layouts/columns.md)
 * [Flex](layouts/flex.md)
+* [Hero](layouts/hero.md)
 
 ## Components
 
