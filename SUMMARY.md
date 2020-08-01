@@ -21,6 +21,9 @@
 ## Utilities
 
 * [Background Color](utilities/background-color.md)
+* [Border](utilities/border/README.md)
+  * [Border Properties](utilities/border/border-properties.md)
+  * [Rounded Border](utilities/border/rounded-border.md)
 * [Margin](utilities/margin.md)
 * [Padding](utilities/padding.md)
 
