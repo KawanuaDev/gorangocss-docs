@@ -3,6 +3,28 @@
 Full changelog  
 [https://github.com/KawanuaDev/gorangocss/releases](https://github.com/KawanuaDev/gorangocss/releases)
 
+## 1.10.x
+
+### New
+
+Added new `.dropdown`, `.navbar` classes.
+
+```css
+.dropdown
+```
+
+```css
+.navbar
+```
+
+### Updates
+
+* `.button` box-shadow value for `:active` and `:hover` state.
+* Better `.navbar` responsive menu.
+* New `.navbar--fixed` option.
+* Lighter `.notice` `background-color` value.
+* Removing heading value conflict in normalize.
+
 ## 1.9.0
 
 ### New
@@ -19,7 +41,7 @@ Full changelog
 .notice--{info | success | warning | danger}
 ```
 
-### Update
+### Updates
 
 ```css
 .bg--{dark | light}--gradient
