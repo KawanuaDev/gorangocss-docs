@@ -2,6 +2,9 @@
 
 * [Overview](README.md)
 * [Changelog](changelog.md)
+* [Contributing](contributing/README.md)
+  * [Contributing to GorangoCSS](contributing/contributing-to-gorangocss.md)
+  * [Contributing to the Docs](contributing/contributing-to-the-docs.md)
 
 ## Layouts
 
