@@ -1,3 +1,9 @@
+---
+description: >-
+  We are all humans trying to work together to improve the community. Always be
+  kind and appreciate the need for tradeoffs.
+---
+
 # Contributing to GorangoCSS
 
  We expect contributors to abide by our underlying [Code of Conduct](https://gorangocss.kawanua.id/codeofconduct). All discussions about this project must be respectful and harassment-free.
