@@ -18,7 +18,7 @@ If you feel anyone has violated our Code of Conduct, you should anonymously cont
 
 ### How to contribute
 
-1. Fork the project and clone it to your local machine.
+1. [Fork the project](https://github.com/KawanuaDev/gorangocss) and clone it to your local machine.
 2. Create a branch with your GitHub username and the ID of the issue, for example: `git checkout -b USERNAME/some-new-feature-1234`
 3. Code and commit your changes. Bonus points if you write a good commit message: `git commit -m 'Add some feature 1234'`
 4. Push to the branch: `git push -u origin USERNAME/some-new-feature-1234`
